@@ -22,4 +22,4 @@ The "heart" dataset contains 12 features giving demographics and medical data fo
     <li><b><i>HeartDisease: output class [1: heart disease, 0: Normal]</i></b></li>
 </ol>
 
-<h2> Planning </h2>
+
